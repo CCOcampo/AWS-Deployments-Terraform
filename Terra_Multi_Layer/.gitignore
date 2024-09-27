@@ -1,0 +1,5 @@
+Main_partes.txt
+package-lock.json
+package.json
+terraform.tfstate
+terraform.tfstate.backup
