@@ -4,7 +4,7 @@ Este proyecto utiliza Terraform para desplegar una infraestructura básica en AW
 
 ## Arquitectura
 
-<img src="LB.png" width=90%> <br>
+<img src="LB.png" width=70%> <br>
 
 ## Características
 
