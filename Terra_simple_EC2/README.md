@@ -2,6 +2,10 @@
 
 Este proyecto usa Terraform para crear una infraestructura básica en AWS.
 
+## Arquitectura
+
+<img src="EC2.png" width=90%> <br>
+
 ### Características
 
 - Crea una VPC y una subred pública.

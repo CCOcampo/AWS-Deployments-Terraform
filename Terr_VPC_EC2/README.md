@@ -2,6 +2,10 @@
 
 Este proyecto utiliza Terraform para desplegar una infraestructura básica en AWS, que incluye una VPC, subredes, instancias EC2 con Apache y un balanceador de carga.
 
+## Arquitectura
+
+<img src="LB.png" width=90%> <br>
+
 ## Características
 
 - Crea una VPC con subredes públicas y privadas.
