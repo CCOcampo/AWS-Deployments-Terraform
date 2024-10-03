@@ -1,3 +1,5 @@
+<img src="tf-aws.png" width=90%> <br>
+
 # Ejercicios de Infraestructura como Código (IaC) con Terraform en AWS
 
 Este repositorio está destinado a la realización de ejercicios prácticos relacionados con la implementación de Infraestructura como Código (IaC) utilizando **Terraform** en la nube de **Amazon Web Services (AWS)**.
