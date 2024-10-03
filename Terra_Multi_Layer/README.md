@@ -2,6 +2,10 @@
 
 Este proyecto utiliza Terraform para automatizar la creación de una infraestructura en AWS, diseñada para soportar una aplicación duplicada de otro repositorio que incluye un frontend, backend y una base de datos MySQL. La configuración cubre aspectos clave de la infraestructura, como redes, seguridad, load balancer y almacenamiento.
 
+## Arquitectura
+
+<img src="Multi_layer.png" width=90%> <br>
+
 ## Características principales
 
 - **Proveedor AWS**: Configuración de la región de AWS mediante variables.
