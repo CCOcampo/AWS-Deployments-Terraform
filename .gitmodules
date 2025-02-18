@@ -1,3 +1,6 @@
 [submodule "Terra_app/Terra_app/wildrydes-site"]
 	path = Terra_app/Terra_app/wildrydes-site
 	url = https://github.com/tinytechnicaltutorials/wildrydes-site.git
+[submodule "Terra_app/wildrydes-site"]
+	path = Terra_app/wildrydes-site
+	url = https://github.com/tinytechnicaltutorials/wildrydes-site.git
